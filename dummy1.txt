@@ -1,1 +1,2 @@
-add by news-hotfix
+add by news-hotfix 2 times
+add2 by news-hotfix 
